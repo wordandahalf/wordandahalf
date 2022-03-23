@@ -4,6 +4,16 @@ I'm currently a computer engineering student at the University of Dayton.
 The repositories here are mostly passion projects that I tinker with when I feel the inclination.
 
 ------------
+
+<a href="#">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=wordandahalf&hide_rank=true&layout=compact&theme=merko" />
+</a>
+<a href="#">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordandahalf&langs_count=8&layout=compact&theme=merko" />
+</a>
+
+------------
+
 If (for some reason) you are interested in something else that I have written, here's a list of everything noteworthy and a quick description of each:
 - [Adventuria](https://github.com/wordandahalf/Adventuria-old/tree/slick2d)—it's a horrendous 2D Minecraft clone written in Java with Slick2D. My first project ever! Pull it for a good laugh!
 - [Blueprint](https://github.com/wordandahalf/Blueprint)—An annotation-driven library for modifying Java code at runtime. It was written to help with a modding API for the indie game Equilinox; I haven't touched it much since. Organization was difficult for this, I tried rewriting it twice but could never settle on an architecture. I might revisit this at some point in the future, though I don't use Java very much anymore.
