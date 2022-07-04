@@ -26,4 +26,4 @@ If (for some reason) you are interested in something else that I have written, h
 - [XDN](https://github.com/wordandahalf/XDN)—My take on Ben Eater's breadboard CPU design. I used the schematics provided on his [website](https://eater.net/8bit/schematics) and implemented it in Verilog. I had used VHDL prior to this, so the (comparative) conciseness was a breath of fresh air. It's been tested on an Alinx AX309 that I've had lying around.
 
 ------------
-###### To contact me, please use my personal email, [secure2ryanjones@protomail.com](mailto:secure2ryanjones@protomail.com).
+###### To contact me, please use [hello@wordandahalf.org](mailto:hello@wordandahalf.org).
