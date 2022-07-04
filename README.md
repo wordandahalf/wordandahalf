@@ -1,6 +1,7 @@
 #### Hi! I'm Ryan 👋
 
-I'm currently a computer engineering student at the University of Dayton.
+I'm a computer engineering undergradutate at the University of Dayton. Currently, I'm the technical lead at [RotMC](https://rotmc.xyz), a RPG bullet-hell experience built on top of Minecraft.
+
 The repositories here are mostly passion projects that I tinker with when I feel the inclination.
 
 ------------
@@ -14,7 +15,7 @@ The repositories here are mostly passion projects that I tinker with when I feel
 
 ------------
 
-If (for some reason) you are interested in something else that I have written, here's a list of everything noteworthy and a quick description of each:
+If you are interested in something else that I have written, here's a list of everything noteworthy and a quick description of each:
 - [Adventuria](https://github.com/wordandahalf/Adventuria-old/tree/slick2d)—it's a horrendous 2D Minecraft clone written in Java with Slick2D. My first project ever! Pull it for a good laugh!
 - [Blueprint](https://github.com/wordandahalf/Blueprint)—An annotation-driven library for modifying Java code at runtime. It was written to help with a modding API for the indie game Equilinox; I haven't touched it much since. Organization was difficult for this, I tried rewriting it twice but could never settle on an architecture. I might revisit this at some point in the future, though I don't use Java very much anymore.
 - [Dead by Minecraft](https://github.com/wordandahalf/Dead-by-Minecraft)—A recreation of the popular Dead by Daylight in Minecraft using a Spigot plugin and a resource pack.
@@ -26,4 +27,4 @@ If (for some reason) you are interested in something else that I have written, h
 - [XDN](https://github.com/wordandahalf/XDN)—My take on Ben Eater's breadboard CPU design. I used the schematics provided on his [website](https://eater.net/8bit/schematics) and implemented it in Verilog. I had used VHDL prior to this, so the (comparative) conciseness was a breath of fresh air. It's been tested on an Alinx AX309 that I've had lying around.
 
 ------------
-###### To contact me, please use [hello@wordandahalf.org](mailto:hello@wordandahalf.org).
+###### Contact me at [hello@wordandahalf.org](mailto:hello@wordandahalf.org).
