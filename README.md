@@ -1,6 +1,6 @@
 #### Hi! I'm Ryan 👋
 
-I'm a computer engineering undergradutate at the University of Dayton. Currently, I'm the technical lead at [RotMC](https://rotmc.xyz), a RPG bullet-hell experience built on top of Minecraft.
+I'm a computer engineering graduate student at the University of Dayton. Currently, I'm the technical lead at [RotMC](https://rotmc.xyz), a RPG bullet-hell experience built on top of Minecraft.
 
 The repositories here are mostly passion projects that I tinker with when I feel the inclination.
 
